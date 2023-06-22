@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(223, 223, 223);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.bigtext {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.centerpic {
+    width: 60%;
+    left: 19%;
+    position: relative;
+}
+
+.listformat {
+    font-size: 25px;
+}
+
+.ytvid {
+    width: 80%;
+    aspect-ratio: 16 / 9;
+    left: 10%;
+    position: relative;
+}
